@@ -2,7 +2,7 @@
 ## Aplicacion en JS con principios CODE CLEAN
 
 Pasos para ejecutar el proyecto>
-1. Clorar repositorio
+1. Clonar repositorio
 2. Ejecutar ```npm install``` para reconstruir los modulos de node
 3. Correr el devServer ```npm run dev```
 
