@@ -9,3 +9,5 @@ Pasos para ejecutar el proyecto>
 ### PRD
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` para el despliegue
+
+Pages: https://yvromero.github.io/js-vite-blackjack/
